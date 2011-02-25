@@ -1,8 +1,9 @@
 #
 #
 # Sales Partner Module For PyroCMS
+# 
 #
-#
+#	Created By Thomas Wheeler - Wheelert@wheelerwire.com
 
 install)
 	1) Copy to ./addons/modules
