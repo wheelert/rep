@@ -1,0 +1,9 @@
+#
+#
+# Sales Partner Module For PyroCMS
+#
+#
+
+install)
+	1) Copy to ./addons/modules
+	2) Via your dashboard install the module
